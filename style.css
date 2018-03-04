@@ -1,4 +1,24 @@
 .example {
 	background-color : yellow;
 	border : 1px solid black;
+	height: 20px;
+	margin-top : 20px;
+}
+
+#myStyle {
+	color: blue;
+}
+
+.example2 {
+	background-color : green;
+	border : 1px solid black;
+	height: 20px;
+	margin-top : 20px;
+}
+
+.example3 {
+	background-color : red;
+	border : 1px solid black;
+	height: 20px;
+	margin-top : 20px;
 }
